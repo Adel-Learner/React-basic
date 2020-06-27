@@ -6,6 +6,15 @@ cd React-basic
 
 npm install
 
-npm run build
+npm run dev
 
-#run index.html from the public folder
+#navigate to http://localhost:3000/
+
+#you can also!!!
+
+npm run build 
+ 
+ then
+ 
+#run index.html from the build folder
+
